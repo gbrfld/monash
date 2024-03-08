@@ -1,0 +1,15 @@
+section {
+  width: 600px;
+  height: 600px;
+  text-align: center;
+  border: 15px solid rgb(190, 14, 14);
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  background-color: rgb(15, 93, 119);
+  margin: 20px;
+  padding: 20px;
+  border: 10px;
+}

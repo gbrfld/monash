@@ -1,0 +1,31 @@
+.lesson {
+    width: 100px;
+    height: 100px;
+    color: yellow;
+    background-color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+    }
+  /* TODO: Fact 1 */
+  #fact-1 {
+    font-size: bolder;
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  /* TODO: Fact 2 */
+  #fact-2 {
+    font-size: bolder;
+    background-color: yellow;
+    width: 100px;
+    height: 100px; 
+    font-family: 'Courier New', Courier, monospace; 
+  }
+  /* TODO: Fact 3 */
+  #fact-3 {
+    font-size: bolder;
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+  font-family: 'Courier New', Courier, monospace;
+  }
